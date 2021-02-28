@@ -1,0 +1,28 @@
+body{
+
+    background-color: #DCDCDC;
+    font-family: Verdana;
+    font-weight: normal;
+    text-align: center;
+}
+
+
+.images{ 
+    /* order of margin: top right bottom left  */
+    
+    float:left;
+    width: 33.33%;
+    margin-bottom: 50px;
+    /* padding:5px */
+
+}
+.flavor{
+    color:red;
+    font-size: 20px;
+    
+   
+}
+.button{
+    font-size: 30px;
+    color:green;
+}
