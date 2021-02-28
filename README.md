@@ -1,7 +1,7 @@
 # NoodlMe
 Automated Ramen Machine for AngelHacks 2021
 
-![alt text](https://github.com/TheDWu/NoodlMe/images/20210228_133932.jpg?raw=true)
+![Ramen Image](https://octodex.github.com/TheDWu/NoodlMe/images/20210228_133932.jpg)
 
 ## Inspiration
 We're a group of college students who've had our fair share of bad experiences trying to grab a quick and cheap bite between classes. Cup ramen is a great choice but is prone to being messy and easy to spill while walking back to class or to a nearby table. We wondered if there was a way to re-seal the paper lid after adding hot water for easier transportation. Que the NoodlMe!
