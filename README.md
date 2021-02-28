@@ -21,7 +21,7 @@ We couldn't implement a water heating element due to a lack of appropriate heati
 The laser cut carboard and overall build came out looking much nicer than anticipated, provided hot water the NoodlMe mostly works as an automated cup noodle dispenser.
 
 ## What we learned
-David: I had my first experience programming an Arduino Uno.
+David: I had my first experience programming an Arduino Uno and creating a website with HTML
 
 Bernard: 3D printing and laser cutting experience!
 
